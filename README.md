@@ -2,6 +2,12 @@
 
 **Live Demo (Version 1):** [https://nirbhay-guardian.vercel.app](https://nirbhay-guardian.vercel.app)
 
+### Watch the Demo
+
+<video src="./demo.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
 > **Note:** This repository currently contains **Version 1 (Hackathon Prototype)** of the application. The full product roadmap (V1 → V3) outlined below details how the platform will mature with proactive outreach, integrations with SBI's backend, and deeper credit workflows.
 
 ---
